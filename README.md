@@ -6,4 +6,4 @@
 - JavaScript
 
 # Registration Page
-![Registration Page](PhpBlogProject/images/Registration.png)
+![Registration  Page](PhpBlogProject/images/image.png)
